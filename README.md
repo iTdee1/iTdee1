@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm D. Alfred Shaw, an <a href="www.linkedin.com/in/d-alfred-shaw-9bb761347">IT Professional</a>😃</h1>
+<h1> I'm D. Alfred Shaw, an <a href="www.linkedin.com/in/d-alfred-shaw-9bb761347">IT Professional</a>😃</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
