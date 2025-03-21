@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 We are still under construction. I expect to be finished by 4/2025.                   Thanks for popping by.
 <h1> I'm D. Alfred Shaw, an <a href="www.linkedin.com/in/d-alfred-shaw-9bb761347">IT Professional</a>😃</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
