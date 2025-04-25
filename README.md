@@ -13,7 +13,7 @@
     
 - <b>VLAN Home Lab create VM use RDP to access and inspect packets using wireshark </b>
   - [Configuring VLAN Homelab within Azure VM](https://github.com/iTdee1/Create-VLAN)
-  - [Use RDP to access VM and Inspecting Packets over Network](https://github.com/iTdee1/azure-network-protocols)
+  - [Use RDP to access VM and Inspecting Packets over Network](https://github.com/iTdee1/inspect-packets))
 
 <h2>🤳Connect with me:</h2>
 
